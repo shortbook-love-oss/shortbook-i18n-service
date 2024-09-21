@@ -4,6 +4,8 @@ on:
   pull_request_target:
     branches:
       - main
+      - stg
+      - dev
 
 # explicitly configure permissions, in case your GITHUB_TOKEN workflow permissions are set to read-only in repository settings
 permissions:
