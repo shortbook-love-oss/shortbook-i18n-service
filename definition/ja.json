@@ -1,23 +1,23 @@
 {
 	"$schema": "https://inlang.com/schema/inlang-message-format",
 
+	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBookのロゴ",
 
-	"signup_label": "登録する",
-	"signin_label": "ログイン",
-	"signout_label": "ログアウト",
+	"signup_title": "登録する",
+	"signin_title": "ログイン",
+	"signout_title": "ログアウト",
 	"signout_confirm": "ログアウトしますか？",
-	"header_home": "ホーム",
-	"header_write": "本を書く",
-	"header_sp_write": "書く",
-	"header_mypage": "設定",
-	"header_more": "その他",
+	"header_link_home": "ホーム",
+	"header_link_write": "本を書く",
+	"header_link_sp_write": "書く",
+	"header_link_mypage": "設定",
+	"header_link_more": "その他",
 
 	"footer_about_shortbook_heading": "ShortBookについて",
 	"footer_about_shortbook_about": "どんなサービス？",
 	"footer_about_shortbook_term": "利用規約",
 	"footer_about_shortbook_privacy": "プライバシーポリシー",
-	"footer_about_shortbook_sct": "特定商取引法に基づく表記",
 	"footer_about_company_heading": "会社について",
 	"footer_about_company_about": "会社情報",
 	"footer_about_company_contact": "お問い合わせ",
@@ -25,28 +25,8 @@
 	"top_heading": "本を見つける",
 	"top_write_cta": "今すぐ書く",
 
-	"sign_form_email_label": "メールアドレス",
+	"input_label_email": "メールアドレス",
 	"signup_need_agree": "以下の文書に同意してください。",
 	"signup_to_signin": "ログインはこちら",
-	"signin_to_signup": "新規登録はこちら",
-
-	"about_sct_page_title": "特定商取引法に基づく表記",
-	"policy_term_title": "ShortBook利用規約",
-	"policy_privacy_title": "ShortBookプライバシーポリシー",
-
-	"about_company_page_title": "会社概要",
-	"about_company_name_title": "会社名",
-	"about_company_name": "合同会社ShortBook",
-	"about_company_invoice_number_title": "適格請求書発行事業者の登録番号",
-	"about_company_invoice_number": "T8180303006124",
-	"about_company_address_title": "所在地",
-	"about_company_address": "〒444-0326 愛知県西尾市富山町於三28番地15",
-	"about_company_chief_name_title": "代表者",
-	"about_company_chief_name": "倉地 俊輔",
-	"about_company_found_date_title": "設立日",
-	"about_company_found_date": "2024年5月14日",
-	"about_company_capital_title": "資本金",
-	"about_company_capital": "50万円",
-	"about_company_business_content_title": "事業内容",
-	"about_company_business_content": "インターネット附随サービス業 - ShortBookの企画・開発・運営・顧客対応"
+	"signin_to_signup": "新規登録はこちら"
 }
