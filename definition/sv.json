@@ -25,8 +25,13 @@
 	"top_heading": "Utforska böcker",
 	"top_write_cta": "Skriv ny bok",
 
-	"input_label_email": "E-post",
 	"signup_need_agree": "Genom att skapa ett konto godkänner du dessa policyer.",
 	"signup_to_signin": "Har du ett konto?",
-	"signin_to_signup": "Har du inget konto än?"
+	"signin_to_signup": "Har du inget konto än?",
+
+	"input_required": "Krävs",
+	"file_input_select_single_guide": "Välj eller dra en fil",
+	"file_input_select_multiple_guide": "Välj eller dra filer",
+	"file_input_size_limit": "Maximal storlek {size}",
+	"input_label_email": "E-post"
 }

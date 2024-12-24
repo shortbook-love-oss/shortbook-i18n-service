@@ -25,8 +25,13 @@
 	"top_heading": "Tutustu kirjoihin",
 	"top_write_cta": "Kirjoita uusi kirja",
 
-	"input_label_email": "Sähköposti",
 	"signup_need_agree": "Luomalla tilin hyväksyt nämä käytännöt.",
 	"signup_to_signin": "Onko sinulla tili?",
-	"signin_to_signup": "Eikö sinulla ole vielä tiliä?"
+	"signin_to_signup": "Eikö sinulla ole vielä tiliä?",
+
+	"input_required": "Vaaditaan",
+	"file_input_select_single_guide": "Valitse tai vedä tiedosto",
+	"file_input_select_multiple_guide": "Valitse tai vedä tiedostoja",
+	"file_input_size_limit": "Enimmäis koko {size}",
+	"input_label_email": "Sähköposti"
 }

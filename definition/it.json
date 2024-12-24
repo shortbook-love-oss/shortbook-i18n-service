@@ -25,8 +25,13 @@
 	"top_heading": "Esplora libri",
 	"top_write_cta": "Scrivi un nuovo libro",
 
-	"input_label_email": "Email",
 	"signup_need_agree": "Creando un account, accetti queste norme.",
 	"signup_to_signin": "Hai un account?",
-	"signin_to_signup": "Non hai ancora un account?"
+	"signin_to_signup": "Non hai ancora un account?",
+
+	"input_required": "Necessario",
+	"file_input_select_single_guide": "Seleziona o trascina un file",
+	"file_input_select_multiple_guide": "Seleziona o trascina i file",
+	"file_input_size_limit": "Dimensione massima {size}",
+	"input_label_email": "Email"
 }

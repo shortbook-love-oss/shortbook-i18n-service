@@ -25,8 +25,13 @@
 	"top_heading": "浏览书籍",
 	"top_write_cta": "写新书",
 
-	"input_label_email": "电子邮件",
 	"signup_need_agree": "创建帐户即表示您同意这些政策。",
 	"signup_to_signin": "有帐户吗？",
-	"signin_to_signup": "还没有帐户吗？"
+	"signin_to_signup": "还没有帐户吗？",
+
+	"input_required": "必需的",
+	"file_input_select_single_guide": "选择或拖动单个文件",
+	"file_input_select_multiple_guide": "选择或拖动多个文件",
+	"file_input_size_limit": "最大文件大小 {size}",
+	"input_label_email": "电子邮件"
 }

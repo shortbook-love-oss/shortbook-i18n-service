@@ -25,8 +25,13 @@
 	"top_heading": "Explore books",
 	"top_write_cta": "Write new book",
 
-	"input_label_email": "Email",
 	"signup_need_agree": "By creating an account, you agree to these policies.",
 	"signup_to_signin": "Have an account?",
-	"signin_to_signup": "Don't have an account yet?"
+	"signin_to_signup": "Don't have an account yet?",
+
+	"input_required": "Required",
+	"file_input_select_single_guide": "Select or drag a file",
+	"file_input_select_multiple_guide": "Select or drag files",
+	"file_input_size_limit": "Max size {size}",
+	"input_label_email": "Email"
 }

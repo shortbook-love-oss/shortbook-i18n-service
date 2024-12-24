@@ -25,8 +25,13 @@
 	"top_heading": "Jelajahi buku",
 	"top_write_cta": "Tulis buku baru",
 
-	"input_label_email": "Email",
 	"signup_need_agree": "Dengan membuat akun, Anda menyetujui kebijakan ini.",
 	"signup_to_signin": "Sudah punya akun?",
-	"signin_to_signup": "Belum punya akun?"
+	"signin_to_signup": "Belum punya akun?",
+
+	"input_required": "Diperlukan",
+	"file_input_select_single_guide": "Pilih atau seret satu file",
+	"file_input_select_multiple_guide": "Pilih atau seret beberapa file",
+	"file_input_size_limit": "Ukuran maksimum {size}",
+	"input_label_email": "Email"
 }

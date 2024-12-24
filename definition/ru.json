@@ -25,8 +25,13 @@
 	"top_heading": "Изучить книги",
 	"top_write_cta": "Написать новую книгу",
 
-	"input_label_email": "Электронная почта",
 	"signup_need_agree": "Создавая учетную запись, вы соглашаетесь с этими правилами.",
 	"signup_to_signin": "Есть учетная запись?",
-	"signin_to_signup": "Еще нет учетной записи?"
+	"signin_to_signup": "Еще нет учетной записи?",
+
+	"input_required": "Требуется",
+	"file_input_select_single_guide": "Выберите или перетащите файл",
+	"file_input_select_multiple_guide": "Выберите или перетащите файлы",
+	"file_input_size_limit": "Максимальный размер {size}",
+	"input_label_email": "Электронная почта"
 }

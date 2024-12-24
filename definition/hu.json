@@ -25,8 +25,13 @@
 	"top_heading": "Fedezze fel a könyveket",
 	"top_write_cta": "Írj új könyvet",
 
-	"input_label_email": "Email",
 	"signup_need_agree": "Fiók létrehozásával Ön elfogadja ezeket az irányelveket.",
 	"signup_to_signin": "Van fiókja?",
-	"signin_to_signup": "Még nincs fiókod?"
+	"signin_to_signup": "Még nincs fiókod?",
+
+	"input_required": "Kötelező",
+	"file_input_select_single_guide": "Válasszon vagy húzzon egy fájlt",
+	"file_input_select_multiple_guide": "Válasszon vagy húzzon fájlokat",
+	"file_input_size_limit": "Maximális méret {size}",
+	"input_label_email": "Email"
 }

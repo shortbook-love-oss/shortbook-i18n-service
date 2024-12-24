@@ -25,8 +25,13 @@
 	"top_heading": "Udforsk bøger",
 	"top_write_cta": "Skriv ny bog",
 
-	"input_label_email": "E-mail",
 	"signup_need_agree": "Ved at oprette en konto accepterer du disse politikker.",
 	"signup_to_signin": "Har du en konto?",
-	"signin_to_signup": "Har du ikke en konto endnu?"
+	"signin_to_signup": "Har du ikke en konto endnu?",
+
+	"input_required": "Påkrævet",
+	"file_input_select_single_guide": "Vælg eller træk en fil",
+	"file_input_select_multiple_guide": "Vælg eller træk filer",
+	"file_input_size_limit": "Maksimal størrelse {size}",
+	"input_label_email": "E-mail"
 }

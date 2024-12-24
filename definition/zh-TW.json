@@ -25,8 +25,13 @@
 	"top_heading": "探索書籍",
 	"top_write_cta": "寫新書",
 
-	"input_label_email": "電子郵件",
 	"signup_need_agree": "建立帳戶即表示您同意這些政策。",
 	"signup_to_signin": "有帳戶嗎？",
-	"signin_to_signup": "還沒有帳戶？"
+	"signin_to_signup": "還沒有帳戶？",
+
+	"input_required": "必需的",
+	"file_input_select_single_guide": "選擇或拖曳單一文件",
+	"file_input_select_multiple_guide": "選擇或拖曳多個文件",
+	"file_input_size_limit": "最大檔案大小 {size}",
+	"input_label_email": "電子郵件"
 }

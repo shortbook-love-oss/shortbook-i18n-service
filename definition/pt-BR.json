@@ -25,8 +25,13 @@
 	"top_heading": "Explorar livros",
 	"top_write_cta": "Escrever novo livro",
 
-	"input_label_email": "E-mail",
 	"signup_need_agree": "Ao criar uma conta, você concorda com estas políticas.",
 	"signup_to_signin": "Tem uma conta?",
-	"signin_to_signup": "Ainda não tem uma conta?"
+	"signin_to_signup": "Ainda não tem uma conta?",
+
+	"input_required": "Obrigatório",
+	"file_input_select_single_guide": "Selecione ou arraste um arquivo",
+	"file_input_select_multiple_guide": "Selecione ou arraste arquivos",
+	"file_input_size_limit": "Tamanho máximo {size}",
+	"input_label_email": "E-mail"
 }

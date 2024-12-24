@@ -25,8 +25,13 @@
 	"top_heading": "Uurige raamatuid",
 	"top_write_cta": "Kirjutage uus raamat",
 
-	"input_label_email": "Meil",
 	"signup_need_agree": "Konto loomisega nõustute nende eeskirjadega.",
 	"signup_to_signin": "Kas teil on konto?",
-	"signin_to_signup": "Kas teil pole veel kontot?"
+	"signin_to_signup": "Kas teil pole veel kontot?",
+
+	"input_required": "Nõutav",
+	"file_input_select_single_guide": "Valige või lohistage fail",
+	"file_input_select_multiple_guide": "Valige või lohistage failid",
+	"file_input_size_limit": "Maksimaalne suurus {size}",
+	"input_label_email": "Meil"
 }

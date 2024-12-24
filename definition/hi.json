@@ -25,8 +25,13 @@
 	"top_heading": "पुस्तकें देखें",
 	"top_write_cta": "नई पुस्तक लिखें",
 
-	"input_label_email": "ईमेल",
 	"signup_need_agree": "खाता बनाकर, आप इन नीतियों से सहमत होते हैं।",
 	"signup_to_signin": "क्या आपके पास खाता है?",
-	"signin_to_signup": "क्या आपके पास अभी तक खाता नहीं है?"
+	"signin_to_signup": "क्या आपके पास अभी तक खाता नहीं है?",
+
+	"input_required": "आवश्यक",
+	"file_input_select_single_guide": "फ़ाइल चुनें या खींचें",
+	"file_input_select_multiple_guide": "फ़ाइलें चुनें या खींचें",
+	"file_input_size_limit": "अधिकतम आकार {size}",
+	"input_label_email": "ईमेल"
 }

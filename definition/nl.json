@@ -25,8 +25,13 @@
 	"top_heading": "Boeken ontdekken",
 	"top_write_cta": "Nieuw boek schrijven",
 
-	"input_label_email": "E-mail",
 	"signup_need_agree": "Door een account aan te maken, gaat u akkoord met dit beleid.",
 	"signup_to_signin": "Hebt u een account?",
-	"signin_to_signup": "Nog geen account?"
+	"signin_to_signup": "Nog geen account?",
+
+	"input_required": "Vereist",
+	"file_input_select_single_guide": "Selecteer of sleep een bestand",
+	"file_input_select_multiple_guide": "Selecteer of sleep bestanden",
+	"file_input_size_limit": "Maximale grootte {size}",
+	"input_label_email": "E-mail"
 }

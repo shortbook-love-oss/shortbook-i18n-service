@@ -25,8 +25,13 @@
 	"top_heading": "استكشف الكتب",
 	"top_write_cta": "تأليف كتاب جديد",
 
-	"input_label_email": "البريد الإلكتروني",
 	"signup_need_agree": "عند إنشاء حساب، فإنك توافق على هذه السياسات.",
 	"signup_to_signin": "هل لديك حساب؟",
-	"signin_to_signup": "ليس لديك حساب حتى الآن؟"
+	"signin_to_signup": "ليس لديك حساب حتى الآن؟",
+
+	"input_required": "مطلوب",
+	"file_input_select_single_guide": "حدد أو اسحب ملفًا واحدًا.",
+	"file_input_select_multiple_guide": "حدد أو اسحب ملفًا واحدًا أو أكثر.",
+	"file_input_size_limit": "{size} الحجم الأقصى",
+	"input_label_email": "البريد الإلكتروني"
 }
