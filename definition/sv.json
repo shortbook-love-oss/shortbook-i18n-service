@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Bästa hälsningar.",
+	"mail_sender_account": "ShortBook Konto",
 
 	"input_required": "Krävs",
 	"file_input_select_single_guide": "Välj eller dra en fil",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Genom att skapa ett konto godkänner du dessa policyer.",
 	"signup_to_signin": "Har du ett konto?",
-	"signin_to_signup": "Har du inget konto än?"
+	"signin_to_signup": "Har du inget konto än?",
+
+	"signup_mail_title": "Registreringen är nästan klar",
+	"signup_mail_introduction": "Tack för att du registrerade dig.\nKlicka på den här knappen för att avsluta processen.",
+	"signin_mail_title": "Bekräfta inloggning",
+	"signin_mail_introduction": "Hej, {name}!\nTack för din fortsatta aktivitet.\nKlicka på den här knappen för att bekräfta."
 }

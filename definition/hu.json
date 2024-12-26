@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Üdvözlettel.",
+	"mail_sender_account": "ShortBook Fiók",
 
 	"input_required": "Kötelező",
 	"file_input_select_single_guide": "Válasszon vagy húzzon egy fájlt",
@@ -68,5 +70,10 @@
 
 	"signup_need_agree": "Fiók létrehozásával Ön elfogadja ezeket az irányelveket.",
 	"signup_to_signin": "Van fiókja?",
-	"signin_to_signup": "Még nincs fiókod?"
+	"signin_to_signup": "Még nincs fiókod?",
+
+	"signup_mail_title": "A regisztráció majdnem befejeződött",
+	"signup_mail_introduction": "Köszönjük a regisztrációt.\nKérjük, kattintson erre a gombra a folyamat befejezéséhez.",
+	"signin_mail_title": "Erősítse meg a bejelentkezést",
+	"signin_mail_introduction": "Szia, {name}!\nKöszönjük folyamatos tevékenységét.\nKérjük, kattintson erre a gombra a megerősítéshez."
 }

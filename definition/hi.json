@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "साभार।",
+	"mail_sender_account": "ShortBook खाता",
 
 	"input_required": "आवश्यक",
 	"file_input_select_single_guide": "फ़ाइल चुनें या खींचें",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "खाता बनाकर, आप इन नीतियों से सहमत होते हैं।",
 	"signup_to_signin": "क्या आपके पास खाता है?",
-	"signin_to_signup": "क्या आपके पास अभी तक खाता नहीं है?"
+	"signin_to_signup": "क्या आपके पास अभी तक खाता नहीं है?",
+
+	"signup_mail_title": "पंजीकरण लगभग पूरा हो चुका है",
+	"signup_mail_introduction": "पंजीकरण के लिए धन्यवाद।\nकृपया प्रक्रिया समाप्त करने के लिए इस बटन पर क्लिक करें।",
+	"signin_mail_title": "लॉगिन की पुष्टि करें",
+	"signin_mail_introduction": "नमस्ते, {name}!\nआपकी निरंतर गतिविधि के लिए धन्यवाद।\nकृपया पुष्टि करने के लिए इस बटन पर क्लिक करें।"
 }

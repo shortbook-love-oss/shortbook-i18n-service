@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Atentamente.",
+	"mail_sender_account": "Cuenta ShortBook",
 
 	"input_required": "Necesitar",
 	"file_input_select_single_guide": "Seleccionar o arrastrar un archivo",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Al crear una cuenta, aceptas estas políticas.",
 	"signup_to_signin": "¿Tienes una cuenta?",
-	"signin_to_signup": "¿Aún no tienes una cuenta?"
+	"signin_to_signup": "¿Aún no tienes una cuenta?",
+
+	"signup_mail_title": "El registro está casi completo",
+	"signup_mail_introduction": "Gracias por registrarse.\nHaga clic en este botón para finalizar el proceso.",
+	"signin_mail_title": "Confirmar inicio de sesión",
+	"signin_mail_introduction": "Hola, {name}.\nGracias por su actividad continua.\nHaga clic en este botón para confirmar."
 }

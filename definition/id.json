@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Salam.",
+	"mail_sender_account": "ShortBook Akun",
 
 	"input_required": "Diperlukan",
 	"file_input_select_single_guide": "Pilih atau seret satu file",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Dengan membuat akun, Anda menyetujui kebijakan ini.",
 	"signup_to_signin": "Sudah punya akun?",
-	"signin_to_signup": "Belum punya akun?"
+	"signin_to_signup": "Belum punya akun?",
+
+	"signup_mail_title": "Pendaftaran hampir selesai",
+	"signup_mail_introduction": "Terima kasih telah mendaftar.\nSilakan klik tombol ini untuk menyelesaikan prosesnya.",
+	"signin_mail_title": "Konfirmasi login",
+	"signin_mail_introduction": "Halo, {name}!\nTerima kasih atas aktivitas Anda yang berkelanjutan.\nSilakan klik tombol ini untuk mengonfirmasi."
 }

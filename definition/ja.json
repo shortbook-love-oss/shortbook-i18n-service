@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBookのロゴ",
+	"message_thank": "",
+	"mail_sender_account": "ShortBookアカウント",
 
 	"input_required": "必須",
 	"file_input_select_single_guide": "ファイルを選択またはドラッグ",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "以下の文書に同意してください。",
 	"signup_to_signin": "ログインはこちら",
-	"signin_to_signup": "新規登録はこちら"
+	"signin_to_signup": "新規登録はこちら",
+
+	"signup_mail_title": "登録完了まであと一歩です",
+	"signup_mail_introduction": "ShortBookに興味を持ってくださり、本当にありがとうございます！\n以下のボタンを押すことで、世界中の人と繋がる執筆活動をお楽しみいただけます。",
+	"signin_mail_title": "アカウントにログイン",
+	"signin_mail_introduction": "以下のボタンを押すことで、ログインできます。"
 }

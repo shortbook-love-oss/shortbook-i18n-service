@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Parimate soovidega.",
+	"mail_sender_account": "ShortBook Konto",
 
 	"input_required": "Nõutav",
 	"file_input_select_single_guide": "Valige või lohistage fail",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Konto loomisega nõustute nende eeskirjadega.",
 	"signup_to_signin": "Kas teil on konto?",
-	"signin_to_signup": "Kas teil pole veel kontot?"
+	"signin_to_signup": "Kas teil pole veel kontot?",
+
+	"signup_mail_title": "Registreerimine on peaaegu lõpule viidud",
+	"signup_mail_introduction": "Täname registreerumast.\nProtsessi lõpetamiseks klõpsake sellel nupul.",
+	"signin_mail_title": "Kinnitage sisselogimine",
+	"signin_mail_introduction": "Tere, {name}!\nAitäh jätkuva tegevuse eest.\nKinnitamiseks klõpsake seda nuppu."
 }

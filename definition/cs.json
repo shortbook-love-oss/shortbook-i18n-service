@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "S pozdravem.",
+	"mail_sender_account": "ShortBook Účet",
 
 	"input_required": "Povinné",
 	"file_input_select_single_guide": "Vyberte nebo přetáhněte soubor",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Vytvořením účtu souhlasíte s těmito zásadami.",
 	"signup_to_signin": "Máte účet?",
-	"signin_to_signup": "Ještě nemáte účet?"
+	"signin_to_signup": "Ještě nemáte účet?",
+
+	"signup_mail_title": "Registrace účtu je téměř dokončena",
+	"signup_mail_introduction": "děkujeme za registraci.\nKliknutím na toto tlačítko proces dokončíte.",
+	"signin_mail_title": "Potvrďte přihlášení",
+	"signin_mail_introduction": "Dobrý den, {name}!\nDěkujeme za vaši pokračující aktivitu.\nPro potvrzení klikněte na toto tlačítko."
 }

@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "З повагою.",
+	"mail_sender_account": "ShortBook Обліковий запис",
 
 	"input_required": "Потрібно",
 	"file_input_select_single_guide": "Виберіть або перетягніть файл",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Створюючи обліковий запис, ви погоджуєтеся з цією політикою.",
 	"signup_to_signin": "Є обліковий запис?",
-	"signin_to_signup": "У вас ще немає облікового запису?"
+	"signin_to_signup": "У вас ще немає облікового запису?",
+
+	"signup_mail_title": "Реєстрація майже завершена",
+	"signup_mail_introduction": "Дякуємо за реєстрацію.\nНатисніть цю кнопку, щоб завершити процес.",
+	"signin_mail_title": "Підтвердити вхід",
+	"signin_mail_introduction": "Привіт, {name}!\nДякуємо за вашу активність.\nНатисніть цю кнопку для підтвердження."
 }

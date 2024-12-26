@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Beste hilsener.",
+	"mail_sender_account": "ShortBook Konto",
 
 	"input_required": "Påkrevd",
 	"file_input_select_single_guide": "Velg eller dra en fil",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Ved å opprette en konto godtar du disse retningslinjene.",
 	"signup_to_signin": "Har du en konto?",
-	"signin_to_signup": "Har du ikke en konto ennå?"
+	"signin_to_signup": "Har du ikke en konto ennå?",
+
+	"signup_mail_title": "Registreringen er nesten fullført",
+	"signup_mail_introduction": "Takk for at du registrerte deg.\nKlikk på denne knappen for å fullføre prosessen.",
+	"signin_mail_title": "Bekreft pålogging",
+	"signin_mail_introduction": "Hei, {name}!\nTakk for din fortsatte aktivitet.\nKlikk på denne knappen for å bekrefte."
 }

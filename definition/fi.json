@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook logotype",
+	"message_thank": "Parhain terveisin",
+	"mail_sender_account": "ShortBook Tili",
 
 	"input_required": "Vaaditaan",
 	"file_input_select_single_guide": "Valitse tai vedä tiedosto",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "Luomalla tilin hyväksyt nämä käytännöt.",
 	"signup_to_signin": "Onko sinulla tili?",
-	"signin_to_signup": "Eikö sinulla ole vielä tiliä?"
+	"signin_to_signup": "Eikö sinulla ole vielä tiliä?",
+
+	"signup_mail_title": "Ilmoittautuminen on melkein valmis",
+	"signup_mail_introduction": "Kiitos rekisteröitymisestä.\nNapsauta tätä painiketta päättääksesi prosessin.",
+	"signin_mail_title": "Vahvista kirjautuminen",
+	"signin_mail_introduction": "Hei, {name}!\nKiitos jatkuvasta aktiivisuudestasi.\nVahvista napsauttamalla tätä painiketta."
 }

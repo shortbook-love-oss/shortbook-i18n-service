@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook 標誌和文字",
+	"message_thank": "此致敬禮。",
+	"mail_sender_account": "短本帳號",
 
 	"input_required": "必需的",
 	"file_input_select_single_guide": "選擇或拖曳單一文件",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "建立帳戶即表示您同意這些政策。",
 	"signup_to_signin": "有帳戶嗎？",
-	"signin_to_signup": "還沒有帳戶？"
+	"signin_to_signup": "還沒有帳戶？",
+
+	"signup_mail_title": "建立帳戶的最後一步",
+	"signup_mail_introduction": "感謝您註冊。請點擊此按鈕來完成該過程。",
+	"signin_mail_title": "確認登入",
+	"signin_mail_introduction": "你好，{name}！\n感謝您持續的活動。請點選此按鈕進行確認。"
 }

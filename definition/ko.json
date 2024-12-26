@@ -3,6 +3,8 @@
 
 	"company_name": "ShortBook LLC",
 	"logotype_alt": "ShortBook 로고 및 문자",
+	"message_thank": "오늘도 좋은 하루 보내세요",
+	"mail_sender_account": "ShortBook 계정",
 
 	"input_required": "필요",
 	"file_input_select_single_guide": "단일 파일 선택 또는 드래그",
@@ -69,5 +71,10 @@
 
 	"signup_need_agree": "계정을 만들면 이러한 정책에 동의하는 것입니다.",
 	"signup_to_signin": "계정이 있습니까?",
-	"signin_to_signup": "아직 계정이 없습니까?"
+	"signin_to_signup": "아직 계정이 없습니까?",
+
+	"signup_mail_title": "등록이 거의 완료되었습니다",
+	"signup_mail_introduction": "등록해 주셔서 감사합니다.\n이 버튼을 클릭하여 프로세스를 완료하세요.",
+	"signin_mail_title": "로그인 확인",
+	"signin_mail_introduction": "안녕하세요, {name}!\n계속 사용해 주셔서 감사합니다.\n이 버튼을 클릭하여 확인하세요."
 }
