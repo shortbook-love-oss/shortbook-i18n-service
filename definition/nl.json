@@ -72,6 +72,7 @@
 	"signup_need_agree": "Door een account aan te maken, gaat u akkoord met dit beleid.",
 	"signup_to_signin": "Hebt u een account?",
 	"signin_to_signup": "Nog geen account?",
+	"signin_form_success": "Bevestigingslink naar uw e-mail verzonden.",
 
 	"signup_mail_title": "Registratie is bijna voltooid",
 	"signup_mail_introduction": "Bedankt voor uw registratie.\nKlik op deze knop om het proces te voltooien.",

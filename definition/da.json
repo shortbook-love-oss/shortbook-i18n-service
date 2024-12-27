@@ -71,6 +71,7 @@
 	"signup_need_agree": "Ved at oprette en konto accepterer du disse politikker.",
 	"signup_to_signin": "Har du en konto?",
 	"signin_to_signup": "Har du ikke en konto endnu?",
+	"signin_form_success": "Sendt bekræftelseslink til din e-mail.",
 
 	"signup_mail_title": "Kontoregistreringen er næsten fuldført",
 	"signup_mail_introduction": "Tak for din tilmelding.\nKlik venligst på denne knap for at afslutte processen.",

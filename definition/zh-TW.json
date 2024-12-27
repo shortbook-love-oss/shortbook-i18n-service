@@ -72,6 +72,7 @@
 	"signup_need_agree": "建立帳戶即表示您同意這些政策。",
 	"signup_to_signin": "有帳戶嗎？",
 	"signin_to_signup": "還沒有帳戶？",
+	"signin_form_success": "我們已將確認連結發送到您的電子郵件。",
 
 	"signup_mail_title": "建立帳戶的最後一步",
 	"signup_mail_introduction": "感謝您註冊。請點擊此按鈕來完成該過程。",

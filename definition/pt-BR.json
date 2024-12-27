@@ -72,6 +72,7 @@
 	"signup_need_agree": "Ao criar uma conta, você concorda com estas políticas.",
 	"signup_to_signin": "Tem uma conta?",
 	"signin_to_signup": "Ainda não tem uma conta?",
+	"signin_form_success": "Enviado link de confirmação para seu e-mail.",
 
 	"signup_mail_title": "O registro está quase completo",
 	"signup_mail_introduction": "Obrigado por registrar-se.\nClique neste botão para finalizar o processo.",

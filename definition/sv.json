@@ -72,6 +72,7 @@
 	"signup_need_agree": "Genom att skapa ett konto godkänner du dessa policyer.",
 	"signup_to_signin": "Har du ett konto?",
 	"signin_to_signup": "Har du inget konto än?",
+	"signin_form_success": "Skickade bekräftelselänk till din e-post.",
 
 	"signup_mail_title": "Registreringen är nästan klar",
 	"signup_mail_introduction": "Tack för att du registrerade dig.\nKlicka på den här knappen för att avsluta processen.",

@@ -72,6 +72,7 @@
 	"signup_need_agree": "创建帐户即表示您同意这些政策。",
 	"signup_to_signin": "有帐户吗？",
 	"signin_to_signup": "还没有帐户吗？",
+	"signin_form_success": "我们已将确认链接发送至您的电子邮箱。",
 
 	"signup_mail_title": "创建帐户的最后一步",
 	"signup_mail_introduction": "感谢您注册。请点击此按钮完成注册过程。",

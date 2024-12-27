@@ -71,6 +71,7 @@
 	"signup_need_agree": "Fiók létrehozásával Ön elfogadja ezeket az irányelveket.",
 	"signup_to_signin": "Van fiókja?",
 	"signin_to_signup": "Még nincs fiókod?",
+	"signin_form_success": "Megerősítő linket küldtünk az e-mailedre.",
 
 	"signup_mail_title": "A regisztráció majdnem befejeződött",
 	"signup_mail_introduction": "Köszönjük a regisztrációt.\nKérjük, kattintson erre a gombra a folyamat befejezéséhez.",

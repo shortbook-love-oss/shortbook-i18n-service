@@ -72,6 +72,7 @@
 	"signup_need_agree": "Luomalla tilin hyväksyt nämä käytännöt.",
 	"signup_to_signin": "Onko sinulla tili?",
 	"signin_to_signup": "Eikö sinulla ole vielä tiliä?",
+	"signin_form_success": "Vahvistuslinkki lähetetty sähköpostiisi.",
 
 	"signup_mail_title": "Ilmoittautuminen on melkein valmis",
 	"signup_mail_introduction": "Kiitos rekisteröitymisestä.\nNapsauta tätä painiketta päättääksesi prosessin.",

@@ -72,6 +72,7 @@
 	"signup_need_agree": "以下の文書に同意してください。",
 	"signup_to_signin": "ログインはこちら",
 	"signin_to_signup": "新規登録はこちら",
+	"signin_form_success": "確認のため、メールを送信しました。",
 
 	"signup_mail_title": "登録完了まであと一歩です",
 	"signup_mail_introduction": "ShortBookに興味を持ってくださり、本当にありがとうございます！\n以下のボタンを押すことで、世界中の人と繋がる執筆活動をお楽しみいただけます。",

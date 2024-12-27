@@ -72,6 +72,7 @@
 	"signup_need_agree": "By creating an account, you agree to these policies.",
 	"signup_to_signin": "Have an account?",
 	"signin_to_signup": "Don't have an account yet?",
+	"signin_form_success": "Sent confirm link to your email.",
 
 	"signup_mail_title": "Sign up almost done",
 	"signup_mail_introduction": "Thank you for signing up.\nPlease click this button to finish the process.",

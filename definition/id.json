@@ -72,6 +72,7 @@
 	"signup_need_agree": "Dengan membuat akun, Anda menyetujui kebijakan ini.",
 	"signup_to_signin": "Sudah punya akun?",
 	"signin_to_signup": "Belum punya akun?",
+	"signin_form_success": "Mengirim tautan konfirmasi ke email Anda.",
 
 	"signup_mail_title": "Pendaftaran hampir selesai",
 	"signup_mail_introduction": "Terima kasih telah mendaftar.\nSilakan klik tombol ini untuk menyelesaikan prosesnya.",

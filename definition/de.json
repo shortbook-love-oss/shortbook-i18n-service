@@ -72,6 +72,7 @@
 	"signup_need_agree": "Indem Sie ein Konto erstellen, stimmen Sie diesen Richtlinien zu.",
 	"signup_to_signin": "Sie haben bereits ein Konto?",
 	"signin_to_signup": "Sie haben noch kein Konto?",
+	"signin_form_success": "Bestätigungslink an Ihre E-Mail gesendet.",
 
 	"signup_mail_title": "Die Kontoregistrierung ist fast abgeschlossen.",
 	"signup_mail_introduction": "Vielen Dank für Ihre Registrierung.\nKlicken Sie bitte auf diese Schaltfläche, um den Vorgang abzuschließen.",

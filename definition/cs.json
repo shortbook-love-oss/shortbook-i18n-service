@@ -72,6 +72,7 @@
 	"signup_need_agree": "Vytvořením účtu souhlasíte s těmito zásadami.",
 	"signup_to_signin": "Máte účet?",
 	"signin_to_signup": "Ještě nemáte účet?",
+	"signin_form_success": "Odeslání potvrzovacího odkazu na váš e-mail.",
 
 	"signup_mail_title": "Registrace účtu je téměř dokončena",
 	"signup_mail_introduction": "děkujeme za registraci.\nKliknutím na toto tlačítko proces dokončíte.",
