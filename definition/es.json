@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Archivos adjuntos",
 	"contact_submit_label": "Enviar mensaje",
 	"contact_limit_rate_over_notice": "Por razones de seguridad, existe un límite en la cantidad de veces que puedes enviar tu mensaje. Vuelve a intentarlo en una hora.",
+	"contact_form_success": "Su mensaje ha sido enviado exitosamente.",
 
 	"contact_category_help_label": "Cómo usar",
 	"contact_category_help_notice": "Si tienes alguna pregunta, te explicaremos hasta que encuentres una solución.",

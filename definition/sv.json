@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Bifogade filer",
 	"contact_submit_label": "Skicka meddelande",
 	"contact_limit_rate_over_notice": "Av säkerhetsskäl finns det en gräns för hur många gånger du kan skicka ditt meddelande. Försök igen om en timme.",
+	"contact_form_success": "Ditt meddelande har skickats framgångsrikt.",
 
 	"contact_category_help_label": "Hur man använder",
 	"contact_category_help_notice": "Om du har några frågor förklarar vi tills du hittar en lösning.",

@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Liitetiedostot",
 	"contact_submit_label": "Lähetä viesti",
 	"contact_limit_rate_over_notice": "Turvallisuussyistä viestin lähettämiskertoja on rajoitettu. Yritä uudelleen tunnin kuluttua.",
+	"contact_form_success": "Viestisi on lähetetty onnistuneesti.",
 
 	"contact_category_help_label": "Kuinka käyttää",
 	"contact_category_help_notice": "Jos sinulla on kysyttävää, selitämme, kunnes löydät ratkaisun.",
@@ -67,7 +68,7 @@
 	"contact_category_press_notice": "Tämä kategoria on tarkoitettu lehdistön edustajille. Otamme vastaan ​​tiedotteita ja haastatteluja koskevia tiedusteluja.",
 	"contact_category_life_label": "Minulla on elämässä huolia",
 	"contact_category_life_notice": "Emme koskaan hylkää elämänneuvontaa. Se on totta. Esittelemme sinulle artikkeleita, jotka ovat lähellä sydäntäsi ja ratkaisevat ongelmasi. Henkilötietosi anonymisoidaan, jotta voit olla varma yksityisyydestäsi.",
-	"contact_category_other_label": "muu",
+	"contact_category_other_label": "Muu",
 
 	"signup_need_agree": "Luomalla tilin hyväksyt nämä käytännöt.",
 	"signup_to_signin": "Onko sinulla tili?",

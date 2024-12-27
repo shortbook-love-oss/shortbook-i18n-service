@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Anhänge",
 	"contact_submit_label": "Nachricht senden",
 	"contact_limit_rate_over_notice": "Aus Sicherheitsgründen können Sie Ihre Nachricht nur begrenzt oft senden. Bitte versuchen Sie es in einer Stunde erneut.",
+	"contact_form_success": "Ihre Nachricht wurde erfolgreich gesendet.",
 
 	"contact_category_help_label": "Verwendung",
 	"contact_category_help_notice": "Wenn Sie Fragen haben, erklären wir Ihnen alles, bis Sie eine Lösung gefunden haben.",

@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Melléklet fájlok",
 	"contact_submit_label": "Üzenet küldése",
 	"contact_limit_rate_over_notice": "Biztonsági okokból korlátozva van az üzenetek elküldésének száma. Kérjük, próbálja újra egy óra múlva.",
+	"contact_form_success": "Üzenetét sikeresen elküldtük.",
 
 	"contact_category_help_label": "Hogyan kell használni",
 	"contact_category_help_notice": "Ha bármilyen kérdése van, elmagyarázzuk, amíg nem talál megoldást.",

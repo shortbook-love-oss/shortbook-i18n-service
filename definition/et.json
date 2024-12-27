@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Manusefailid",
 	"contact_submit_label": "Saada sõnum",
 	"contact_limit_rate_over_notice": "Turvakaalutlustel on sõnumi saatmise kordade arv piiratud. Proovige tunni pärast uuesti.",
+	"contact_form_success": "Teie sõnum on edukalt saadetud.",
 
 	"contact_category_help_label": "Kuidas kasutada",
 	"contact_category_help_notice": "Kui teil on küsimusi, selgitame, kuni leiate lahenduse.",

@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Soubory příloh",
 	"contact_submit_label": "Odeslat zprávu",
 	"contact_limit_rate_over_notice": "Z bezpečnostních důvodů je počet, kolikrát můžete zprávu odeslat, omezen. Zkuste to znovu za hodinu.",
+	"contact_form_success": "Zpráva byla úspěšně odeslána.",
 
 	"contact_category_help_label": "Jak používat",
 	"contact_category_help_notice": "Pokud máte nějaké dotazy, vysvětlíme, dokud nenajdete řešení.",

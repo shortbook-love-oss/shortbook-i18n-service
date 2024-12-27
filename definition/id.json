@@ -42,6 +42,7 @@
 	"contact_input_label_file": "File lampiran",
 	"contact_submit_label": "Kirim pesan",
 	"contact_limit_rate_over_notice": "Demi alasan keamanan, ada batasan berapa kali Anda dapat mengirim pesan. Coba lagi dalam satu jam.",
+	"contact_form_success": "Pesan Anda telah berhasil dikirim.",
 
 	"contact_category_help_label": "Cara penggunaan",
 	"contact_category_help_notice": "Jika Anda memiliki pertanyaan, kami akan menjelaskannya hingga Anda menemukan solusi.",

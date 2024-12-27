@@ -42,6 +42,7 @@
 	"contact_input_label_file": "अटैचमेंट फ़ाइलें",
 	"contact_submit_label": "संदेश भेजें",
 	"contact_limit_rate_over_notice": "सुरक्षा कारणों से, आप अपना संदेश कितनी बार भेज सकते हैं, इसकी एक सीमा है। कृपया एक घंटे में फिर से प्रयास करें।",
+	"contact_form_success": "आपका संदेश सफलतापूर्वक प्रेषित किया गया।",
 
 	"contact_category_help_label": "कैसे उपयोग करें",
 	"contact_category_help_notice": "यदि आपके कोई प्रश्न हैं, तो हम तब तक समझाएँगे जब तक आपको कोई समाधान नहीं मिल जाता।",

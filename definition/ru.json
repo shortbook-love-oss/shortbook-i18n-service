@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Вложенные файлы",
 	"contact_submit_label": "Отправить сообщение",
 	"contact_limit_rate_over_notice": "В целях безопасности существует ограничение на количество отправок сообщения. Повторите попытку через час.",
+	"contact_form_success": "Ваше сообщение успешно отправлено.",
 
 	"contact_category_help_label": "Как использовать",
 	"contact_category_help_notice": "Если у вас возникнут вопросы, мы объясним их, пока вы не найдете решение.",

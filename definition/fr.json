@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Fichiers joints",
 	"contact_submit_label": "Envoyer un message",
 	"contact_limit_rate_over_notice": "Pour des raisons de sécurité, le nombre de fois que vous pouvez envoyer votre message est limité. Veuillez réessayer dans une heure.",
+	"contact_form_success": "Votre message a été envoyé avec succès.",
 
 	"contact_category_help_label": "Comment utiliser",
 	"contact_category_help_notice": "Si vous avez des questions, nous vous expliquerons jusqu'à ce que vous trouviez une solution.",

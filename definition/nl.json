@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Bijlagebestanden",
 	"contact_submit_label": "Bericht verzenden",
 	"contact_limit_rate_over_notice": "Om veiligheidsredenen is er een limiet aan het aantal keren dat u uw bericht kunt verzenden. Probeer het over een uur opnieuw.",
+	"contact_form_success": "Uw bericht is succesvol verzonden.",
 
 	"contact_category_help_label": "Hoe te gebruiken",
 	"contact_category_help_notice": "Als u vragen hebt, leggen we het uit totdat u een oplossing vindt.",

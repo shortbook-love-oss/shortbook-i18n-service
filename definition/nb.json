@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Vedleggsfiler",
 	"contact_submit_label": "Send melding",
 	"contact_limit_rate_over_notice": "Av sikkerhetsmessige årsaker er det begrenset hvor mange ganger du kan sende meldingen. Prøv igjen om en time.",
+	"contact_form_success": "Meldingen din er sendt.",
 
 	"contact_category_help_label": "Hvordan bruke",
 	"contact_category_help_notice": "Hvis du har spørsmål, forklarer vi til du finner en løsning.",

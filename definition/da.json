@@ -42,6 +42,7 @@
 	"contact_input_label_file": "Vedhæftede filer",
 	"contact_submit_label": "Send besked",
 	"contact_limit_rate_over_notice": "Af sikkerhedsmæssige årsager er der en grænse for, hvor mange gange du kan sende din besked. Prøv venligst igen om en time.",
+	"contact_form_success": "Din besked er blevet sendt.",
 
 	"contact_category_help_label": "Sådan bruges",
 	"contact_category_help_notice": "Hvis du har spørgsmål, vil vi forklare, indtil du finder en løsning.",

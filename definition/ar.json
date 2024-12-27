@@ -42,6 +42,7 @@
 	"contact_input_label_file": "ملفات المرفقات",
 	"contact_submit_label": "إرسال رسالة",
 	"contact_limit_rate_over_notice": "لأسباب أمنية، يوجد حد لعدد المرات التي يمكنك إرسال رسالتك فيها. يرجى المحاولة مرة أخرى في غضون ساعة.",
+	"contact_form_success": "لقد تم ارسال رسالتك بنجاح.",
 
 	"contact_category_help_label": "كيفية الاستخدام",
 	"contact_category_help_notice": "إذا كانت لديك أي أسئلة، فسنشرحها حتى تجد حلاً.",

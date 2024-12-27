@@ -42,6 +42,7 @@
 	"contact_input_label_file": "첨부 파일",
 	"contact_submit_label": "메시지 보내기",
 	"contact_limit_rate_over_notice": "보안상의 이유로 메시지를 보낼 수 있는 횟수에 제한이 있습니다. 1시간 후에 다시 시도하세요.",
+	"contact_form_success": "메시지가 성공적으로 전송되었습니다.",
 
 	"contact_category_help_label": "사용 방법",
 	"contact_category_help_notice": "궁금한 사항이 있으면 해결책을 찾을 때까지 설명해드리겠습니다.",

@@ -42,6 +42,7 @@
 	"contact_input_label_file": "附件文件",
 	"contact_submit_label": "发送消息",
 	"contact_limit_rate_over_notice": "出于安全原因，您发送消息的次数有限制。请在一小时后重试。",
+	"contact_form_success": "您的消息已发送成功。",
 
 	"contact_category_help_label": "如何使用",
 	"contact_category_help_notice": "如果您有任何疑问，我们会向您解释，直到您找到解决方案。",

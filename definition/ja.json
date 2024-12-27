@@ -42,6 +42,7 @@
 	"contact_input_label_file": "添付ファイル",
 	"contact_submit_label": "送信する",
 	"contact_limit_rate_over_notice": "セキュリティ上の理由(DoS対策)により、メッセージを送信できる回数には制限があります。1時間後に再度お試しください。",
+	"contact_form_success": "お問い合わせいただき、誠にありがとうございます。",
 
 	"contact_category_help_label": "使い方が分かりません",
 	"contact_category_help_notice": "ご不明な点がありましたら、解決するまで説明いたします。",
